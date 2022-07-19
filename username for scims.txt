@@ -1,0 +1,22 @@
+Super Admin
+14202888888888
+123456
+
+admin
+username 14202123456789
+password 123456
+Examiner
+
+999999999999
+12345678
+
+Teacher Username 600060006000
+Password 12345678
+Teacher Username 444444444444
+password 444444444444
+
+Librarian username 55555555555555
+password 12345678
+
+
+

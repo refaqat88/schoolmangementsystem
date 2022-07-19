@@ -1,0 +1,7 @@
+
+ .perfect-scrollbar-on .sidebar{ right:0 !important; left:auto }
+.perfect-scrollbar-on .main-panel{ 
+float: left !important;
+}td {text-align: right; direction: rtl;}th{text-align: right !important;
+    /* direction: rtl;}
+body{ direction:rtl;}
